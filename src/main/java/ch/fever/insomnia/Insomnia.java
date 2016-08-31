@@ -58,9 +58,9 @@ public interface Insomnia {
     }
 
     /**
-     *
+     * @return a optional containing the singleton of the insomnia
      */
-    static Optional<Insomnia> getOptInstance(){
-        return Optional.ofNullable( InsomniaHelper.getInstance());
+    static Optional<Insomnia> getOptInstance() {
+        return Optional.ofNullable(InsomniaHelper.getInstance());
     }
 }
