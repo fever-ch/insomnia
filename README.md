@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/rbarazzutti/insomnia.svg?branch=master)](http://travis-ci.org/rbarazzutti/insomnia)
+[![build status](https://secure.travis-ci.org/fever-ch/insomnia.svg?branch=master)](http://travis-ci.org/rbarazzutti/insomnia)
 
 # insomnia
 Insomnia is a simple cross-platform toolkit that allows the programmer to prevent the operating system to enter in sleep mode.
